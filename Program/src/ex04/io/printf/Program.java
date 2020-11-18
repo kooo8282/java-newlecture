@@ -1,4 +1,4 @@
-package ex4.io.printf;
+package ex04.io.printf;
 public class Program {
 	public static void main(String[] args) {		
 		int kor1, kor2, kor3;

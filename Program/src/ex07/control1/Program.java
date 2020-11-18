@@ -1,4 +1,4 @@
-package ex7.control1;
+package ex07.control1;
 
 import java.util.Scanner;
 

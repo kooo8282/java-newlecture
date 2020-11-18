@@ -1,4 +1,4 @@
-package ex6.operator;
+package ex06.operator;
 
 import java.util.Scanner;
 
