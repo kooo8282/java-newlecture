@@ -71,7 +71,10 @@ public class ExamList {
 	}
 	
 	public ExamList() {
-		exams = new Exam[3];
+		this(3); // 기본 생성자 오버로드
+	}
+	public ExamList(int size) {
+		exams = new Exam[size];
 		current = 0;		
 	}
 
