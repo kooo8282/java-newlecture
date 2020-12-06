@@ -4,7 +4,6 @@ public class program {
 
 	public static void main(String[] args) {
 		ExamList list = new ExamList();		
-		list.init();
 		
 		boolean loop = true;
 		while(loop) {
